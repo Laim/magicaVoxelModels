@@ -1,1 +1,1 @@
-Models from the first month of learning
+Models from the first month of learning.  These are based on me looking at models I've either seen online or looking at the the default Magica Voxel models that it comes with and re-creating them.
